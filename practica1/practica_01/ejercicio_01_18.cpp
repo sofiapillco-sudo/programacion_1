@@ -17,7 +17,8 @@ int main()
     {
         int divisores = 0;
         for (int i = 1; i <= numero; i++)
-            if (numero % i == 0) divisores++;
+            if (numero % i == 0) 
+                divisores++;
 
         if (divisores == 2) 
         {
