@@ -2,7 +2,7 @@
 // Autor: Sofia Paola Pillco Vera
 // Carnet: 7346371 L.P.
 // Carrera del estudiante: Ingeniería industrial
-// Fecha creación: 17/09/2025
+// Fecha creación: 08/09/2025
 // Número de ejercicio: 4
 
 #include <iostream>
@@ -53,3 +53,4 @@ int main()
     return 0;
 
 }
+
