@@ -5,10 +5,6 @@
 // Fecha creación: 17/09/2025
 // Número de ejercicio: 2
 
-// Materia: Programación I, Paralelo 4
-// Autor: Sofia Paola Pillco Vera
-// Fecha creación: 11/09/2025
-// Número de ejercicio: 2
 
 #include <iostream>
 #include <cmath>
@@ -44,3 +40,4 @@ int main()
 
     return 0;
 }
+
